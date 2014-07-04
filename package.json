@@ -1,7 +1,7 @@
 {
   "name": "noflo-cache",
   "description": "Packet Caching for NoFlo",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "keywords": [
     "noflo",
     "cache"
@@ -22,7 +22,7 @@
   ],
   "dependencies": {
     "nohoarder": "~0.0.1",
-    "noflo": "~0.4.0",
+    "noflo": "~0.5.0",
     "noflo-swiss": "0.0.x",
     "noflo-groups": "0.1.x",
     "noflo-adapters": "0.1.x",
